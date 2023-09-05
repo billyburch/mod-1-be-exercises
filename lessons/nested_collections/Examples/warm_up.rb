@@ -4,6 +4,8 @@ animals = {"dogs" => 3, "cats" => 5, "iguanas" => 2}
 # 2. add 3 parakeets
 # 3. increase the amount of cats by 2
 
+
+
 pet_names = ["Fela", "Spot", "Patch", "Willy"]
 
 # 1. add “Claude” to the end of the array
